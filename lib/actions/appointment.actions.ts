@@ -157,7 +157,7 @@ export const updateAppointment = async ({
       <h2 style="color: #10b981; text-align: center;">MMU Dispensary</h2>
 
       <img 
-        src="http://localhost:3000/gifs/mmu.gif" 
+        src="https://mmu-appointment.netlify.app/gifs/mmu.gif" 
         alt="MMU Dispensary Banner" 
         style="display: block; margin: 0 auto 20px auto; max-width: 100%; border-radius: 6px;"
       />
